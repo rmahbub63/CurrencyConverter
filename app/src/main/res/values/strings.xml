@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_name" />
+    <string-array name="first_currency_name">
+        <item>USD - US Dollar</item>
+        <item>EUR - Euro</item>
+        <item>INR - Indian Rupee</item>
+        <item>BDT - Bangladeshi Taka</item>
+        <item>QAR - Qatari Riyal</item>
+    </string-array>
+
+    <string-array name="second_currency_name">
+        <item>BDT - Bangladeshi Taka</item>
+        <item>USD - US Dollar</item>
+        <item>EUR - Euro</item>
+        <item>INR - Indian Rupee</item>
+        <item>QAR - Qatari Riyal</item>
+    </string-array>
+</resources>
